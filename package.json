@@ -1,0 +1,27 @@
+{
+  "name": "tutorial-factory",
+  "version": "0.0.1",
+  "description": "Tool of building tutorial easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutorial-factory/tutorial-factory.git"
+  },
+  "keywords": [
+    "tutorial",
+    "cli"
+  ],
+  "author": "ZHAO Xudong <zxdong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tutorial-factory/tutorial-factory/issues"
+  },
+  "homepage": "https://github.com/tutorial-factory/tutorial-factory#readme",
+  "devDependencies": {
+    "react": "16.7.0-alpha.2",
+    "react-dom": "16.7.0-alpha.2"
+  }
+}
